@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-RootHarpy-333?style=flat&logo=github" alt="GitHub">
   </a>
   <a href="https://twitter.com/RootHarpy">
-    <img src="https://img.shields.io/badge/Twitter-@RootHarpy-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-RootHarpy-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
@@ -30,6 +30,11 @@ My professional interests span **CVE research, exploit development, offensive to
 
 > _“InsightOrbit — Sharing CVE exploit PoCs, bug bounty tips, and cybersecurity insights for security professionals.”_
 
----
+<p>
+<a href="https://www.facebook.com/profile.php?id=100079752794349">
+  <img src="https://img.shields.io/badge/Facebook-InsightOrbit-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+</p>
 
+---
 <p align="center" style="color:#39FF14;">⚡ Stay curious. Hack responsibly. Lead with integrity.</p>
