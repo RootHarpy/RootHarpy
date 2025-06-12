@@ -3,13 +3,13 @@
   <p align="center">
   <a href="mailto:rootharpy@gmail.com">
     <img src="https://img.shields.io/badge/Contact-39FF14?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://twitter.com/RootHarpy">
+     <img src="https://img.shields.io/badge/X (Formerly Twitter)-1DA1F2?style=flat&logo=x&logoColor=white" alt="X">
   </a>
+      </a>
   <a href="https://www.facebook.com/RootHarpy/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-  <a href="https://twitter.com/RootHarpy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
 </p>
 
 
