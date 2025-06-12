@@ -2,13 +2,13 @@
 <h6 align="center">Founder of InsightOrbit, specializing in CyberSec research and exploit development</h6>
   <p align="center">
   <a href="mailto:rootharpy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-39FF14?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Contact-39FF14?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.facebook.com/RootHarpy/">
-  <img src="https://img.shields.io/badge/Facebook-RootHarpy-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
 </a>
   <a href="https://twitter.com/RootHarpy">
-    <img src="https://img.shields.io/badge/Twitter-RootHarpy-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
