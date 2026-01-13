@@ -1,40 +1,8 @@
-<h1 align="center">Md Shoriful Islam (RootHarpy)</h1>
-<h6 align="center">Founder of InsightOrbit, specializing in CyberSec research and exploit development</h6>
-  <p align="center">
-  <a href="mailto:rootharpy@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-39FF14?style=flat&logo=gmail&logoColor=white" alt="Email">
-  <a href="https://twitter.com/RootHarpy">
-     <img src="https://img.shields.io/badge/X (Formerly Twitter)-1DA1F2?style=flat&logo=x&logoColor=white" alt="X">
-  </a>
-      </a>
-  <a href="https://www.facebook.com/RootHarpy/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-</p>
+<h2> Hi, I'm Md Shoriful Islam <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+I am a cyber security researcher and programmer. You can support my work with a few bucks [here](https://github.com/sponsors/rootharpy) and enjoy the perks ;)
 
+Need cybersecurity/automation/generative AI expertise? I can help your organization tackle tough challenges.\
+Reach me at: `rootharpy@gmail.com`
 
-Hello, I’m **Md Shoriful Islam**, professionally recognized as **RootHarpy** — a dedicated cybersecurity researcher with a specialized focus in **offensive security, penetration testing, red teaming, and vulnerability research**. I am passionate about uncovering complex security flaws and developing advanced exploitation techniques to assess and strengthen the resilience of digital infrastructures.
-
-As an independent security researcher, I actively contribute to private and public vulnerability disclosure programs on leading platforms such as **HackerOne, Intigriti, and Bugcrowd**, collaborating with organizations to identify critical security risks and enhance their defensive posture.
-
-In addition to my individual research, I am the **Founder of InsightOrbit**, a specialized security research initiative committed to delivering verified CVE exploit Proof-of-Concepts (PoCs), bug bounty resources, and strategic cybersecurity insights for professionals in the offensive security community.
-
-My professional interests span **CVE research, exploit development, offensive tooling, recon automation, and OSINT methodologies**. I continuously strive to contribute to the security industry by responsibly disclosing vulnerabilities, publishing security research, and engaging with the global ethical hacking community.
-
-
-
-## 🛰️ InsightOrbit
-
-**InsightOrbit** is a cybersecurity research initiative committed to sharing verified CVE exploit PoCs, bug bounty methodologies, and practical insights tailored for security professionals and offensive security teams.
-
-> _“InsightOrbit — Sharing CVE exploit PoCs, bug bounty tips, and cybersecurity insights for security professionals.”_
-
-<p>
-<a href="https://www.facebook.com/profile.php?id=100079752794349">
-  <img src="https://img.shields.io/badge/Facebook-InsightOrbit-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-</p>
-
----
-<p align="center" style="color:#39FF14;">⚡ Stay curious. Hack responsibly. Lead with integrity.</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/rootharpy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rootharpy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rootharpy)
